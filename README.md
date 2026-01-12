@@ -16,8 +16,8 @@ I am a data analytics professional with hands-on experience in **data cleaning, 
 ## 📊 GitHub Overview
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashi7421&show_icons=true&theme=default&hide_title=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashi7421&layout=compact&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yashi7421&show_icons=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashi7421&layout=compact" height="160"/>
 </p>
 
 ---
