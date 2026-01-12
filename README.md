@@ -1,4 +1,5 @@
-# Hi, I'm Yash Ingale 👋  
+# Hello, I'm Yash Ingale 👋  
+
 **Entry-Level Data Analyst | Open to Opportunities**
 
 I am a data analytics professional with hands-on experience in **data cleaning, exploratory data analysis (EDA), SQL querying, and Power BI dashboard development**. I enjoy transforming raw data into meaningful insights that support **data-driven decision-making and business intelligence initiatives**.
@@ -81,9 +82,10 @@ I am a data analytics professional with hands-on experience in **data cleaning, 
 ---
 
 ## 🎓 Certifications
-- Data Analysis with Python – IBM  
-- Google Analytics Certification – SkillShop  
-- Deloitte Data Analytics Job Simulation – Forage  
+- [Data Analysis with Python – IBM](https://drive.google.com/file/d/1X1Qe6MEQpnA5TOC1Ss9H5gHogxrbGNHl/view?usp=drive_link)  
+- [Advanced Microsoft Excel - Udemy](https://drive.google.com/file/d/1FfH04FR3vxj3-ritqJZ1eX46wk1IHjmo/view?usp=drive_link)
+- [Google Analytics Certification – SkillShop](https://drive.google.com/file/d/1dsXlS8utdiyDQNqzqbQpyHmPtQdSouWB/view?usp=drive_link)  
+- [Deloitte Data Analytics Job Simulation – Forage](https://drive.google.com/file/d/1U373oJ-j5deRDeab81eli3ePaZfoqIk9/view?usp=drive_link)  
 
 ---
 
