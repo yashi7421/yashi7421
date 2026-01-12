@@ -15,10 +15,9 @@ I am a data analytics professional with hands-on experience in **data cleaning, 
 
 ## 📊 GitHub Overview
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashi7421&show_icons=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashi7421&layout=compact" height="160"/>
-</p>
+![GitHub followers](https://img.shields.io/github/followers/yashi7421?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/yashi7421?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos-Visible-success?style=for-the-badge)
 
 ---
 
@@ -74,28 +73,10 @@ I am a data analytics professional with hands-on experience in **data cleaning, 
 
 ## 📊 Featured Projects
 
-### ☕ Coffee Shop Sales Analysis
+### ☕ [Coffee Shop Sales Analysis](https://github.com/yashi7421/Coffee_Shop_Sales_Analysis)
 - Analyzed **149K+ sales records** using SQL and Excel
 - Built interactive Power BI dashboards for revenue, profit, and product performance
-- Performed trend and regional sales analysis for business insights  
-
-🔗 Repository: `coffee-shop-sales-analysis`
-
----
-
-### 📦 Retail Inventory Management Dashboard
-- Designed dashboards to track stock levels, sales trends, and reorder points
-- Identified slow-moving and fast-moving items to support inventory optimization  
-
-🔗 Repository: `retail-inventory-dashboard`
-
----
-
-### ♿ Smart Wheelchair System (IoT & Data Monitoring)
-- Developed real-time dashboards for location and health sensor data
-- Integrated multi-sensor data using Python for structured reporting  
-
-🔗 Repository: `smart-wheelchair-system`
+- Performed trend and regional sales analysis for business insights
 
 ---
 
