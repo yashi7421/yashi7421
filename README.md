@@ -91,8 +91,7 @@ I am a data analytics professional with hands-on experience in **data cleaning, 
 
 ## 📫 Contact
 - 📧 Email: yashingale806@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/-yash-ingale/  
-- 💻 GitHub: https://github.com/yashi7421  
+- 🔗 LinkedIn: https://www.linkedin.com/in/-yash-ingale/
 
 ---
 
