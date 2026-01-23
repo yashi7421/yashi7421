@@ -89,10 +89,10 @@ I am a data analytics professional with hands-on experience in **data cleaning, 
 
 ---
 
-## 📫 Contact
-- 📧 Email: yashingale806@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/-yash-ingale/
-
+- 📫 How to reach me:  
+  [LinkedIn](https://www.linkedin.com/in/-yashingale/) |  
+  [GitHub](https://github.com/yashi7421) |  
+  [Email](mailto:yashingale806@gmail.com)
 ---
 
 ⭐ *Open to Entry-Level Data Analyst / Business Analyst opportunities*
