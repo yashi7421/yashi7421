@@ -90,9 +90,7 @@ I am a data analytics professional with hands-on experience in **data cleaning, 
 ---
 
 - 📫 How to reach me:  
-  [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/-yashingale/)) |  
-  [GitHub]([https://github.com/yashi7421](https://github.com/yashi7421)) |  
-  [Email](mailto:yashingale806@gmail.com)
+  [LinkedIn](https://www.linkedin.com/in/-yashingale/) |  [GitHub](https://github.com/yashi7421) |  [Email](mailto:yashingale806@gmail.com)
 
 ---
 
